@@ -1,0 +1,12 @@
+{
+  "name": "easy-money-saver",
+  "displayName": "easy-money-saver",
+  "expo": {
+    "name": "easy-money-saver",
+    "slug": "easy-money-saver",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
